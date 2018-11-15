@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MyCategorizedListEditor.cs](./CS/WinSample.Module.Win/MyCategorizedListEditor.cs) (VB: [MyCategorizedListEditor.vb](./VB/WinSample.Module.Win/MyCategorizedListEditor.vb))**
+* [Category.cs](./CS/WinSample.Module/Category.cs) (VB: [Category.vb](./VB/WinSample.Module/Category.vb))
+* [Item.cs](./CS/WinSample.Module/Item.cs) (VB: [Item.vb](./VB/WinSample.Module/Item.vb))
+<!-- default file list end -->
 # CategorizedListEditor - How to show subcategory items when a parent category is selected
 
 
